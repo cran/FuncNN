@@ -1,0 +1,14 @@
+citHeader("To cite FuncNN in publications use:")
+
+citEntry(entry = "Misc",
+  title        = "Deep Learning with Functional Inputs",
+  author       = personList(as.person("Barinder Thind"),
+                   as.person("Kevin Multani"), as.person("Jiguo Cao")),
+  year         = "2020",
+  url          = "https://arxiv.org/abs/2006.09590",
+
+  textVersion  =
+  paste("Barinder Thind, Kevin Multani, Jiguo Cao (2020).",
+        "Deep Learning with Functional Inputs",
+        "URL https://arxiv.org/abs/2006.09590")
+)
